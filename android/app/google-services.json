@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26627625501",
+    "project_id": "adityamore",
+    "storage_bucket": "adityamore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26627625501:android:636c4ed60d65633b23ecf4",
+        "android_client_info": {
+          "package_name": "com.example.signin_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26627625501-bomomimnmad157136khr6d7vo1ng7n78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1R6W1feMAPiVeyAdI4gVlsZTl6EEQ0TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26627625501-bomomimnmad157136khr6d7vo1ng7n78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
